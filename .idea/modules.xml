@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KaoShiSSS.iml" filepath="$PROJECT_DIR$/KaoShiSSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xUlils3sample/xUlils3sample.iml" filepath="$PROJECT_DIR$/xUlils3sample/xUlils3sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils/xutils.iml" filepath="$PROJECT_DIR$/xutils/xutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/手机影音/手机影音.iml" filepath="$PROJECT_DIR$/手机影音/手机影音.iml" />
+    </modules>
+  </component>
+</project>
